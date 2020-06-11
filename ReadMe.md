@@ -53,8 +53,8 @@ The following goals are designed to stretch your knowledge and may require addit
 
 - [X] Make your webpage work at different browser widths, including mobile
 - [X] Add CSS animations
-- [ ] Design and execute your own wireframe for `About`, `Projects`, and `Contact` pages
-- [ ] Host your website on Netlify.com
+- [Sorta?] Design and execute your own wireframe for `About`, `Projects`, and `Contact` pages
+- [X] Host your website on Netlify.com
 
 ## FAQs
 
@@ -76,6 +76,6 @@ The following goals are designed to stretch your knowledge and may require addit
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your Team Lead as a reviewer on the pull request
-- [ ] Your Team Lead will count the project as complete by merging the branch back into master
+- [X] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [X] Add your Team Lead as a reviewer on the pull request
+- [X] Your Team Lead will count the project as complete by merging the branch back into master
